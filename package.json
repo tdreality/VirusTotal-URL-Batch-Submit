@@ -1,0 +1,6 @@
+{ "dependencies" :
+  { 
+    "curl" : ">=7.56.1"
+  , "powershell" : ">=2.0"
+  }
+}
